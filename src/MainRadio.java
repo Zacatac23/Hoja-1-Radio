@@ -1,3 +1,7 @@
+/**
+ * The MainRadio class is a Java program that allows users to interact with a Radio object by
+ * selecting various options from a menu.
+ */
 import java.util.Scanner;
 
 public class MainRadio {
